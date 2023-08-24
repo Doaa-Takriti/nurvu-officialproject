@@ -1,0 +1,253 @@
+{
+  "grouponeimage" : [
+  {
+  
+    "id": 1,
+    "img" : "assest/ico1.png" ,
+    "name" : "Sales"
+  },
+  {
+  
+    "id": 2,
+    "img" : "assest/ico2.png" ,
+    "name" : "BD"
+  },
+
+  {
+  
+    "id": 3,
+    "img" : "assest/ico3.png" ,
+    "name" : "Accounting"
+  }
+
+
+
+
+
+],
+"grouptwoimage" : [
+  {
+  
+    "id": 1,
+    "img" : "assest/ico4.png" ,
+    "name" : "Inventory"
+  },
+  {
+  
+    "id": 2,
+    "img" : "assest/ico5.png" ,
+    "name" : "Procurement"
+  },
+
+  {
+  
+    "id": 3,
+    "img" : "assest/ico8.png" ,
+    "name" : "HR & Payout"
+  }
+
+
+
+
+
+],
+"groupthreeimage" : [
+  {
+  
+    "id": 1,
+    "img" : "assest/ico7.png" ,
+    "name1" : "CAFM",
+    "name2" : "Asset management"
+  },
+  {
+  
+    "id": 2,
+    "img" : "assest/ico10.png" ,
+    "name1" : "Customer",
+    "name2" : "Service"
+  }
+
+
+
+
+],
+"imgwhoweare" : [
+  {
+  
+    "id": 1,
+    "img" : "assest/who1.png"    
+  },
+  {
+  
+    "id": 2,
+    "img" : "assest/who2.png" 
+   
+  }
+  ,
+  {
+  
+    "id": 3,
+    "img" : "assest/who3.png" 
+  
+    
+  }
+
+
+
+],
+"iconcompany" : [
+  {
+  
+    "id": 1,
+    "img" : "assest/slack.png",
+    "name" : "Slack"    
+  },
+  {
+  
+    "id": 2,
+    "img" : "assest/amazon.png" ,
+    "name" : "Amazon"
+   
+  }
+  ,
+  {
+  
+    "id": 3,
+    "img" : "assest/slack.png" ,
+    "name" : "Slack"    
+
+  
+    
+  }
+  ,
+  {
+  
+    "id": 4,
+    "img" : "assest/amazon.png" ,
+    "name" : "Amazon"
+
+  
+    
+  }
+
+
+
+],
+"price" : [
+  {
+  
+    "id": 1,
+    "value" : "free",
+    "defaultChecked" : true ,
+    "desc" :"Free Trail" ,
+    "price" : "$0",
+    "day" : "30 Days"   
+  },
+ 
+  {
+  
+    "id": 2,
+    "value" : "basic",
+    "defaultChecked" : false ,
+    "desc" :"Basic" ,
+    "price" : "$00",
+    "day" : "save 20%"   
+  },
+ 
+  {
+  
+    "id": 3,
+    "value" : "premium",
+    "defaultChecked" : false ,
+    "desc" :"Premium" ,
+    "price" : "$00",
+    "day" : "save 20%"   
+  },
+ 
+  {
+  
+    "id": 4,
+    "value" : "enterprise",
+    "defaultChecked" : false ,
+    "desc" :"Enterprise" ,
+    "price" : "$00",
+    "day" : "save 20%"   
+  }
+ 
+
+
+],
+
+"features" : [
+  {
+  
+    "id": 1,
+    "img" : "assest/feature1.png",
+    "name" : "Less Click Forms"    
+  },
+  {
+  
+    "id": 2,
+    "img" : "assest/feature2.png" ,
+    "name" : "Less Click Forms"
+   
+  }
+  ,
+  {
+  
+    "id": 3,
+    "img" : "assest/feature3.png" ,
+    "name" : "Less Click Forms"    
+
+  
+    
+  }
+],
+"links" : [
+  {
+  
+    "id": 1,
+    "img" : "assest/menu-1.png",
+    "title" : "Our Apps",
+    "linkto" : "/"    
+  },
+  {
+  
+    "id": 2,
+    "img" : "assest/menu-2.png",
+    "title" : "Work Flow", 
+    "linkto" : "/Workflow"    
+  
+  },
+  {
+  
+    "id": 3,
+    "img" : "assest/menu-3.png",
+    "title" : "Who We Are" ,
+    "linkto" : "/WhoweAre"    
+   
+  },
+  {
+  
+    "id": 4,
+    "img" : "assest/menu-4.png",
+    "title" : "Pricing"  ,
+    "linkto" : "/Price"    
+  
+  },
+  {
+  
+    "id": 5,
+    "img" : "assest/menu-5.png",
+    "title" : "Contact Us",
+    "linkto" : "/Contactus"    
+    
+  }
+
+]
+
+
+
+
+
+}
